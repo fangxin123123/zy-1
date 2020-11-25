@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Chapter - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Chapter.res" /d "_DEBUG" /d "_AFXDLL" "E:\×ÀÃæ\Á·Ï°\Chapter\Chapter.rc"" 
+Creating temporary file "C:\Users\ASUS\AppData\Local\Temp\RSP9855.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Chapter.pdb" /debug /machine:I386 /out:"Debug/Chapter.exe" /pdbtype:sept 
+".\Debug\Chapter.obj"
+".\Debug\ChapterDoc.obj"
+".\Debug\ChapterView.obj"
+".\Debug\Dlg_ShowPicDynamic.obj"
+".\Debug\Dlg_ShowPicStatic.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Chapter.res"
+]
+Creating command line "link.exe @C:\Users\ASUS\AppData\Local\Temp\RSP9855.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Chapter.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
